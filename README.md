@@ -92,6 +92,11 @@ The `Amount` and `Cost` columns should contain the aggregated sums over the orde
 - Makefile script that deploys all the resources to AWS
 - Tests via POSTMAN (or other similar programs) or the API tests, written in  Nodejs + Typescript + Mocha/Jest (or any other testing framework)
 
+Please create a private repository in your own github's account and give access to the following github users:
+
+- https://github.com/aerioeus
+- https://github.com/jprivillaso
+
 ## 6. Compensation
 
 - The test is being compensated if you deliver the entire assignment meeting all the requirements described above in time and its approved by QA as of your first submission. If the aforesaid requirements are met you will receive **500 USD**.
